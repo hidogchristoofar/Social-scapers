@@ -23,7 +23,6 @@ Scrape valuable user data for lead generation, research studies, targeted market
 
   - [Awards/Achievements 🏆](#awardsachievements-)
     - [Top choice for Facebook, Instagram, TikTok and X (formerly Twitter) Scraping](#top-choice-for-facebook-instagram-tiktok-and-x-formerly-twitter-scraping)
-    - [2nd Spot in Top Trending Repositories on GitHub](#2nd-spot-in-top-trending-repositories-on-github-)
   - [Details of Ultimate Social Scrapers 📜](#details-of-ultimate-social-scrapers-)
     - [1. Ultimate Facebook Scraper (UFS)](#1-ultimate-facebook-scraper-ufs)
     - [2. Ultimate Instagram Scraper (UIS)](#2-ultimate-instagram-scraper-uis)
@@ -85,15 +84,6 @@ Scrape valuable user data for lead generation, research studies, targeted market
 
 <hr>
 
-<h2 align="center">2nd Spot in Top Trending Repositories on GitHub </h2>
-<p align="center">
-  Ultimate Facebook Scraper (UFS) trended among top repositories on GitHub for 3 consecutive weeks 🌟
-  <br><br>
-  <a href='#'>
-    <img src = "https://user-images.githubusercontent.com/30947706/76143469-7bb5db80-6099-11ea-9f37-520437e0cddd.png" width="700" alt="Trending on GitHub"/>
-  </a>
-
-</p>
 <hr>
 
 <h1>Awards/Achievements 🏆</h1>
@@ -236,7 +226,7 @@ UFS is a great software developed by Haris and excellent service that is worth b
 and many more satisfied customers.. 
 
 # Price 💳  
-<b><i>🔥 Limited Time upto 50% discount offer valid till Monday. Feel free to email me at haris.muneer5@gmail.com for the latest updates or any queries. 🔥 </i></b>
+<b><i>🔥 Limited Time upto 50% discount offer valid till Monday. Feel free to email me at fukemy@gmail.com for the latest updates or any queries. 🔥 </i></b>
 <hr>
 
 **🌟 Bundle Offers 🌟**
@@ -259,64 +249,19 @@ We have developed a separate scraper for each of these four platforms: Facebook,
 2. **Installation Method:** You can buy the software today and schedule the installation for any other day when it is convenient for you.</b></i> The purchase includes a one-on-one <b>virtual meeting</b> through which I will install this Software on your computer, train you on its usage, and share best practices for scraping. The software also comes with an instructions file with easy-to-follow installation steps in case you prefer to do the installation independently. 
 
 # Payment Methods 🤝
-**Note:** After the payment, please share a screenshot of the payment receipt at haris.muneer5@gmail.com to receive your licensed version of the software. If you face any issues in making a payment or would like to use some other payment method, please feel free to contact me at haris.muneer5@gmail.com Thank you for your support!
+**Note:** After the payment, please share a screenshot of the payment receipt at fukemy@gmail.com to receive your licensed version of the software. If you face any issues in making a payment or would like to use some other payment method, please feel free to contact me at fukemy@gmail.com Thank you for your support!
 
 **Payment Steps:** For payment, you can follow any of these supported methods:
 
-## Method 1: Using PayPal, Google Pay, Apple Pay, Ali Pay, Visa, Mastercard, American Express, iDEAL, Bancontact
+## Using PayPal, Google Pay, Apple Pay, Ali Pay, Visa, Mastercard, American Express, iDEAL, Bancontact
 <a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/27a08b37-916a-440d-be9a-15efe5790c9f" height="50" alt = "Paddle Payment Options"/></a>
 
 There are separate product purchase links for each bundle offer:
 
-1. Buy any 1 scraper -> <a href="https://www.cyfylabs.com/purchase?priceId=pri_01j1g38sa4ge6w0py8tzkstndm&quantity=1&discountCode=1SCRAPER" target="_blank">Click here</a>
-2. Buy any 2 scrapers -> <a href="https://www.cyfylabs.com/purchase?priceId=pri_01j1pg8770xg90gca9q3z3awdz&quantity=1&discountCode=2SCRAPERS" target="_blank">Click here</a>
-3. Buy any 3 scrapers -> <a href="https://www.cyfylabs.com/purchase?priceId=pri_01j1pgafwfz5f16pgsb9t9q9r3&quantity=1&discountCode=3SCRAPERS" target="_blank">Click here</a>
-4. Buy all 4 scrapers -> <a href="https://www.cyfylabs.com/purchase?priceId=pri_01j1pgba399v2pxar6wsmakhx1&quantity=1&discountCode=4SCRAPERS" target="_blank">Click here</a>
-
-<hr>
-
-## Method 2: Using Wise Platform
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/d4f82cc5-4cac-4c08-af84-7f0331fe2143" width="60" style="margin:4px 4px" alt = "Pay with Wise"/></a>
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/e8f7fedb-b6df-48df-8eed-8f67f7497760" width="50" style="margin:4px 4px" alt = "Pay with Wire Transfer"/></a>
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/f6b32fba-872a-4e0e-9465-f2558a99fd55" width="60" style="margin:4px 4px" alt = "Pay with Bank Transfer"/></a>
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/e3a07d8d-2c46-4787-b041-8ae5aa0f58cb" width="30" style="margin:4px 4px" alt = "Pay with Card"/></a>
-
-
-1. Free signup at <b><a href="https://transferwise.com/invite/u/harism95" target="_blank">Wise</a></b> using this link: https://transferwise.com/invite/u/harism95. (Signing up through this link will save you from any transaction fee on the payment)
-2. Select the <b>sending currency to be USD or an equivalent amount of USD in your supported local currency if that's more convenient for you</b>. (e.g. let's say you are from China, then you can transfer the equivalent USD amount in Chinese Yuan on Wise). It supports multiple payment options (credit card, debit card, wire transfer, etc)
-3. Select the 'Someone else' option, then it will show my info as the recipient, select it. If my name isn't shown, then type my email haris.muneer5@gmail.com in recipients and the IBAN is: PK37FAYS3241307000000167
-4. Choose the reason for transfer to be 'General' and in the reference section, you can mention your email.
-
-<hr>
-
-## Method 3: Using Crypto
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/f966047b-3011-43d4-8384-0591e3590028" width="60" al style="margin:4px 4px" alt = "Pay with Crypto"/></a>
-
-1. You can pay in USDT (USD equivalent) and the chain is Tron (TRC20). Incase you would like to pay with some other crypto coin, please send me an email at haris.muneer5@gmail.com.
-2. The Wallet is a Binance Wallet. My wallet address for USDT coin is: TL3zjuqf2KmgSVkQnGzVq5i2Fk6VF3iauQ
-3. [Sample Screenshot](https://user-images.githubusercontent.com/30947706/138526456-0f82754f-2d4a-48f2-9898-f09721143913.png)
-
-<hr>
-
-## Method 4: Using Bank/Wire Transfer
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/e8f7fedb-b6df-48df-8eed-8f67f7497760" width="60" style="margin:4px 4px" alt = "Pay with Wire Transfer"/></a>
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/f6b32fba-872a-4e0e-9465-f2558a99fd55" width="60" style="margin:4px 4px" alt = "Pay with Bank Transfer"/></a>
-
-You can do a hassle-free bank transfer to my USA account:
-
-Account holder: Haris Muneer
-
-ACH and Wire routing number: 026073150
-
-Swift/BIC: CMFGUS33
-
-Account number: 8312574362
-
-Account type: Checking
-
-Bank address: 89-16 Jamaica Ave, Woodhaven NY 11421, United States
-
-Bank name: COMMUNITY FEDERAL SAVINGS BANK
+1. Buy any 1 scraper -> <a href="https://www.paypal.com/paypalme/fukemy" target="_blank">Click here</a>
+2. Buy any 2 scrapers -> <a href="https://www.paypal.com/paypalme/fukemy" target="_blank">Click here</a>
+3. Buy any 3 scrapers -> <a href="https://www.paypal.com/paypalme/fukemy" target="_blank">Click here</a>
+4. Buy all 4 scrapers -> <a href="https://www.paypal.com/paypalme/fukemy" target="_blank">Click here</a>
 
 <hr>
 
@@ -330,13 +275,13 @@ Bank name: COMMUNITY FEDERAL SAVINGS BANK
 
 # Other Notes 🗒️
 - The default language should be set to English for this tool to work properly. The interface needs to be in English, **the post text and all other data can be scraped in any language** :)
-- If there's any specific use case of yours that the tools don't support currently, feel free to email me at [haris.muneer5@gmail.com](haris.muneer5@gmail.com) and we will discuss it further.
+- If there's any specific use case of yours that the tools don't support currently, feel free to email me at [fukemy@gmail.com](fukemy@gmail.com) and we will discuss it further.
 - It may be hard to utilize these tools for massive scraping (thousands of posts or friends etc) at a fast pace. It is possible, but the scraping rate would be slower in that scenario.
 - Although Facebook/Instagram/X (formerly Twitter) have taken aggressive measures against scraping so sometimes the account you are using to scrape data might get temporarily blocked but there are ways to circumvent this issue which I will share during the installation meeting that have allowed my customers to scrape decent amount of data without any such issues.
 
 The developers of this software won't be responsible for any misuse of data collected using the social scrapers. These tools have been used by many researchers, marketers, business owners, and open-source intelligence (OSINT) analysts.
 
-For more details, feel free to reach me at [haris.muneer5@gmail.com](haris.muneer5@gmail.com)
+For more details, feel free to reach me at [fukemy@gmail.com](fukemy@gmail.com)
 
 <hr>
 
@@ -351,7 +296,7 @@ For more details, feel free to reach me at [haris.muneer5@gmail.com](haris.munee
 <h1 align="left">Connect 🌐</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/harismuneer/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:haris.muneer5@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fukemy@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/harismuneer"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
