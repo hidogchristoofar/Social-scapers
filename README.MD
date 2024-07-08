@@ -87,9 +87,6 @@ Scrape valuable user data for lead generation, research studies, targeted market
 <hr>
 
 <h1>Awards/Achievements 🏆</h1>
-
-* Ultimate Facebook Scraper (UFS) was listed among the [top 20 hacking tools in 2019](https://www.kitploit.com/2019/12/top-20-most-popular-hacking-tools-in.html)!
-
 <h1>Details of Ultimate Social Scrapers 📜</h1>
 
 <h2>1. Ultimate Facebook Scraper (UFS)</h2>
@@ -254,7 +251,7 @@ We have developed a separate scraper for each of these four platforms: Facebook,
 **Payment Steps:** For payment, you can follow any of these supported methods:
 
 ## Using PayPal, Google Pay, Apple Pay, Ali Pay, Visa, Mastercard, American Express, iDEAL, Bancontact
-<a href='#'><img src = "https://github.com/harismuneer/ultimate-social-scrapers-code/assets/30947706/27a08b37-916a-440d-be9a-15efe5790c9f" height="50" alt = "Paddle Payment Options"/></a>
+<a href='#'><img src = "https://github.com/hidogchristoofar/Social-scapers/assets/30947706/27a08b37-916a-440d-be9a-15efe5790c9f" height="50" alt = "Paddle Payment Options"/></a>
 
 There are separate product purchase links for each bundle offer:
 
@@ -285,28 +282,8 @@ For more details, feel free to reach me at [fukemy@gmail.com](fukemy@gmail.com)
 
 <hr>
 
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- <a href="https://github.com/harismuneer/Ultimate-Social-Scrapers"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Social Scrapers" width="200"/></a> - Maker of Things</h1> 
-
-
-## Creator of <a href="https://github.com/harismuneer/Ultimate-Social-Scrapers">Ultimate Social Scrapers</a> (leading tools to collect Facebook, Instagram, TikTok, and Twitter data for research, analysis and lead generation) 
 
 <hr>
-
-<h1 align="left">Connect 🌐</h1>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harismuneer/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:fukemy@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/harismuneer"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-
-<hr>
-
-# Follow 📄
-
-Follow to stay updated about my latest projects: 
-- [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
 
 
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
